@@ -21,24 +21,26 @@ class Solution:
                     q.append(nei)
         return finish if len(finish) == numCourses else [] '''
         # DFS approach 
-        graph = defaultdict(list)
-        for course, prereq in prerequisites:
-            graph[prereq].append(course)
-        visited = [0] * numCourses 
-        res = []
+        v=[0]*numCourses
+        pv=[0]*numCourses
+        graph=defaultdict(list)
+        for c,d in prerequisites:
+            graph[d].append(c)
+        res=[]
         def dfs(node):
-            visited[node] = 1 
+            v[node]=1
+            pv[node]=1
             for nei in graph[node]:
-                if visited[nei] == 0:
-                    if dfs(nei):
-                        return True  
-                elif visited[nei] == 1:
-                    return True         
-            visited[node] = 2 
+                if v[nei]==0:
+                      if dfs(nei):
+                          return True
+                elif pv[nei]==1:
+                    return True
             res.append(node)
-            return False 
+            pv[node]=0
+            return False
         for i in range(numCourses):
-            if visited[i] == 0:
+            if v[i]==0:
                 if dfs(i):
-                    return []  
-        return res[::-1]  
+                    return []
+        return res[::-1]
