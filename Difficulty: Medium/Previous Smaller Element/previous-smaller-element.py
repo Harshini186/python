@@ -1,7 +1,7 @@
 class Solution:
-	def prevSmaller(self, arr):
-		# code here
-		n=len(arr)
+    def prevSmaller(self, arr):
+        # code here
+        n=len(arr)
         stack=[]
         ans=[-1]*n
         for i in range(n):
