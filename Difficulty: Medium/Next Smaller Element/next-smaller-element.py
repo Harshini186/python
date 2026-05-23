@@ -1,7 +1,7 @@
 class Solution:
-	def nextSmallerEle(self, arr):
-		# code here
-		n=len(arr)
+    def nextSmallerEle(self, arr):
+        # code here
+        n=len(arr)
         stack=[]
         ans=[0]*n
         for i in range(n-1,-1,-1):
