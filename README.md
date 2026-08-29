@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Harshini186/python/tree/master/0027-remove-element) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Harshini186/python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
