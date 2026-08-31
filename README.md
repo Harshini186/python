@@ -13,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Harshini186/python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1075-project-employees-i](https://github.com/Harshini186/python/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/Harshini186/python/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
