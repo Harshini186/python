@@ -24,4 +24,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/Harshini186/python/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Harshini186/python/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshini186/python/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [3220-odd-and-even-transactions](https://github.com/Harshini186/python/tree/master/3220-odd-and-even-transactions) |
 <!---LeetCode Topics End-->
