@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Harshini186/python/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Harshini186/python/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Harshini186/python/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
+| [1934-confirmation-rate](https://github.com/Harshini186/python/tree/master/1934-confirmation-rate) |
 | [3220-odd-and-even-transactions](https://github.com/Harshini186/python/tree/master/3220-odd-and-even-transactions) |
 | [3570-find-books-with-no-available-copies](https://github.com/Harshini186/python/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
