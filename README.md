@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Harshini186/python/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Harshini186/python/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Harshini186/python/tree/master/0607-sales-person) |
+| [0627-swap-sex-of-employees](https://github.com/Harshini186/python/tree/master/0627-swap-sex-of-employees) |
 | [1075-project-employees-i](https://github.com/Harshini186/python/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Harshini186/python/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Harshini186/python/tree/master/1148-article-views-i) |
