@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Harshini186/python/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Harshini186/python/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Harshini186/python/tree/master/1934-confirmation-rate) |
+| [1965-employees-with-missing-information](https://github.com/Harshini186/python/tree/master/1965-employees-with-missing-information) |
 | [3220-odd-and-even-transactions](https://github.com/Harshini186/python/tree/master/3220-odd-and-even-transactions) |
 | [3521-find-product-recommendation-pairs](https://github.com/Harshini186/python/tree/master/3521-find-product-recommendation-pairs) |
 | [3570-find-books-with-no-available-copies](https://github.com/Harshini186/python/tree/master/3570-find-books-with-no-available-copies) |
