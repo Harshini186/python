@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Harshini186/python/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Harshini186/python/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/Harshini186/python/tree/master/0627-swap-sex-of-employees) |
+| [1045-customers-who-bought-all-products](https://github.com/Harshini186/python/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/Harshini186/python/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Harshini186/python/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Harshini186/python/tree/master/1141-user-activity-for-the-past-30-days-i) |
