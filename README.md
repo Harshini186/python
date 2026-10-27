@@ -68,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-find-students-who-improved](https://github.com/Harshini186/python/tree/master/3421-find-students-who-improved) |
 | [3521-find-product-recommendation-pairs](https://github.com/Harshini186/python/tree/master/3521-find-product-recommendation-pairs) |
 | [3570-find-books-with-no-available-copies](https://github.com/Harshini186/python/tree/master/3570-find-books-with-no-available-copies) |
+| [3586-find-covid-recovery-patients](https://github.com/Harshini186/python/tree/master/3586-find-covid-recovery-patients) |
 | [3611-find-overbooked-employees](https://github.com/Harshini186/python/tree/master/3611-find-overbooked-employees) |
 <!---LeetCode Topics End-->
