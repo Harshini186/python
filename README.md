@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Harshini186/python/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Harshini186/python/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3586-find-covid-recovery-patients](https://github.com/Harshini186/python/tree/master/3586-find-covid-recovery-patients) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Harshini186/python/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 | [3611-find-overbooked-employees](https://github.com/Harshini186/python/tree/master/3611-find-overbooked-employees) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshini186/python/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Harshini186/python/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
