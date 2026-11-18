@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Harshini186/python/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Harshini186/python/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,15 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshini186/python/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Harshini186/python/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshini186/python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,8 +138,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harshini186/python/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
