@@ -107,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshini186/python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harshini186/python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Harshini186/python/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshini186/python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harshini186/python/tree/master/0303-range-sum-query-immutable) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshini186/python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
