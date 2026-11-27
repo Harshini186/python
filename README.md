@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Harshini186/python/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshini186/python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshini186/python/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/Harshini186/python/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Harshini186/python/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harshini186/python/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshini186/python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshini186/python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Harshini186/python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
