@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Harshini186/python/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Harshini186/python/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshini186/python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Harshini186/python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Harshini186/python/tree/master/0628-maximum-product-of-three-numbers) |
 ## Divide and Conquer
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Harshini186/python/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Harshini186/python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harshini186/python/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshini186/python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Depth-First Search
